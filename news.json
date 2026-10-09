@@ -1,0 +1,23 @@
+{
+  "latest_version": "1.0.0",
+  "release_date": "09/10/2026",
+  "release_title": "Jinnesalle AI v1.0.0 - Official Release",
+  "release_badge": "v1.0.0",
+  "news_badge": "",
+  "forum_url": "https://prestashop.com/forums",
+  "banner_url": "",
+  "features": [
+    {
+      "icon": "icon-bolt",
+      "color": "blue",
+      "title": "1-Click Quick Orders dans le Chat",
+      "desc": "Modal de commande fluide pour commander directement sans recharger la page."
+    },
+    {
+      "icon": "icon-share-alt",
+      "color": "green",
+      "title": "Meta Omnichannel (WhatsApp + Instagram + Messenger)",
+      "desc": "Connexion directe pour répondre aux messages et commentaires automatiquement."
+    }
+  ]
+}
